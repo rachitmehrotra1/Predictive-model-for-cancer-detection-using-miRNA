@@ -12,6 +12,10 @@ from sklearn.grid_search import GridSearchCV
 from sklearn.cross_validation import StratifiedKFold
 
 
+#Rachit Mehrotra
+#rm4149@nyu.edu
+
+
 print "Script start at ", datetime.now().isoformat()
 
 X=np.load('F:/NYU/Hackathon/numpy_array.npy')

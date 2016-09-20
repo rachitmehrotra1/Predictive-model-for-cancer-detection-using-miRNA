@@ -6,6 +6,10 @@
 #y = x.astype(np.float)
 #print y
 
+
+#Rachit Mehrotra
+#rm4149@nyu.edu
+
 import numpy as np
 
 data = np.genfromtxt('output_file-clean')

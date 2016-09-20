@@ -2,6 +2,9 @@ import csv
 from glob import glob
 import re
 
+#Rachit Mehrotra
+#rm4149@nyu.edu
+
 FILES = glob("F:/NYU/Hackathon/**/*.mirna.quantification.txt")
 print FILES.count
 FILES.sort()
